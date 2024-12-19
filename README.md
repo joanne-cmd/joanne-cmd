@@ -12,11 +12,9 @@
 
 - 🌱 I’m currently learning **rust**
 
-- 💬 Ask me about **react, ruby on rails**
-
 - 📫 How to reach me **joanne.m.muthoni@gmail.com**
 
-- ⚡ Fun fact **i love hiking**
+- ⚡ Fun fact ** I love hiking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
