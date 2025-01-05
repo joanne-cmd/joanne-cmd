@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/joannetich" target="blank"><img src="https://img.shields.io/twitter/follow/joannetich?logo=twitter&style=for-the-badge" alt="joannetich" /></a> </p>
 
-- 🔭 I’m currently working on **cybersecurity projects**
+- 🔭 I’m currently working on **DevsecOps projects**
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently building on  **rust**
 
 - 📫 How to reach me **joanne.m.muthoni@gmail.com**
 
-- ⚡ Fun fact ** I love hiking**
+- ⚡ Fun fact **I love hiking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
